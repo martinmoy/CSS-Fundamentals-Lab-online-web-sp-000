@@ -29,6 +29,7 @@ section figcaption{
 
 #featured-property img {
 text-align: center;
+
 }
 
 #featured-property p{
@@ -41,6 +42,7 @@ text-align: center;
 
 #details{
   display: block;
+  background-color: red;
 }
 
 #details{
