@@ -48,4 +48,5 @@ text-align: center;
   float: left;
   background-color: red;
   width:100%;
+  display: block;
 }
